@@ -1,0 +1,14 @@
+MySQL:
+  host: localhost
+  datenbank: ticketsystem
+  port: 3306
+  passwort: conner_ist_krass
+  username: root
+
+
+Nachrichten:
+     prefix: "&aTicket &8» &7"
+     changeTicketStatus: "&7Du hast den Status eines Tickets geändert!"
+     ticketNotFound: "&7Dieses Ticket wurde nicht gefunden!"
+     writeYourMessageInChat: "&7Bitte schreibe nun deine Nachricht in den Chat!"
+

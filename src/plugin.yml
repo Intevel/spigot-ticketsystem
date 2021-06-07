@@ -1,0 +1,6 @@
+name: spigot-ticketsystem
+author: Conner Bachmann<mail@conner-bachmann.de>
+main: me.exception.tickets.SystemMain
+version: 1.0
+commands:
+    tickets:

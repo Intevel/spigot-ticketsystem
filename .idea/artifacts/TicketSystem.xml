@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TicketSystem">
+    <output-path>$PROJECT_DIR$/../localhost/plugins</output-path>
+    <root id="archive" name="TicketSystem.jar">
+      <element id="module-output" name="spigot-ticketsystem" />
+    </root>
+  </artifact>
+</component>
